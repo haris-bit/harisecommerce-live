@@ -1,1 +1,2 @@
-# harisecommerce-live
+Django Ecommerce Website
+# DjangoEcommerceWebsite
