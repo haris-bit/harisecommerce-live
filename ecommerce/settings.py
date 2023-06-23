@@ -29,8 +29,9 @@ SECRET_KEY = 'django-insecure-x@j3+=1n14!t(kixj^*v==)7z^pp&l278d+ivnm2iy)n+%dvm6
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'harisecommerce.herokuapp.com',
+    # 'harisecommerce.herokuapp.com',
     '127.0.0.1'
+    '.vercel.app'
 ]
 
 
