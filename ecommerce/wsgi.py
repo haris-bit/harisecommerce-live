@@ -16,4 +16,8 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ecommerce.settings')
 
 
 application = get_wsgi_application()
+
+app = application
+
+
 # application = DjangoWhiteNoise(application)
