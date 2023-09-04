@@ -26,11 +26,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-x@j3+=1n14!t(kixj^*v==)7z^pp&l278d+ivnm2iy)n+%dvm6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     # 'harisecommerce.herokuapp.com',
-    # '127.0.0.1'
+    # '127.0.0.1',
     '.vercel.app'
 ]
 
